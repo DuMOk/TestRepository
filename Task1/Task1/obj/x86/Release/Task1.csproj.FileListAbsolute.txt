@@ -1,0 +1,4 @@
+C:\Programs\Csharp\Task1\Task1\bin\Release\Task1.exe
+C:\Programs\Csharp\Task1\Task1\bin\Release\Task1.pdb
+C:\Programs\Csharp\Task1\Task1\obj\x86\Release\Task1.exe
+C:\Programs\Csharp\Task1\Task1\obj\x86\Release\Task1.pdb

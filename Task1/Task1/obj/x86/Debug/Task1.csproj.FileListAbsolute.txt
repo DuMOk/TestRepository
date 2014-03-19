@@ -1,0 +1,14 @@
+C:\Programs\Csharp\TestRepository\Task1\Task1\bin\Debug\Task1.exe
+C:\Programs\Csharp\TestRepository\Task1\Task1\bin\Debug\Task1.pdb
+C:\Programs\Csharp\TestRepository\Task1\Task1\obj\x86\Debug\Task1.exe
+C:\Programs\Csharp\TestRepository\Task1\Task1\obj\x86\Debug\Task1.pdb
+C:\Programs\Csharp\Task1\Task1\obj\x86\Debug\Task1.exe
+C:\Programs\Csharp\Task1\Task1\obj\x86\Debug\Task1.pdb
+C:\Programs\Csharp\Task1\Task1\bin\Debug\Task1.exe
+C:\Programs\Csharp\Task1\Task1\bin\Debug\Task1.pdb
+D:\Task1\Task1\obj\x86\Debug\Task1.exe
+D:\Task1\Task1\obj\x86\Debug\Task1.pdb
+D:\Task1\Task1\bin\Debug\Task1.exe
+D:\Task1\Task1\bin\Debug\Task1.pdb
+D:\Task1\Task1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Programs\Csharp\Task1\Task1\obj\x86\Debug\Task1.csprojResolveAssemblyReference.cache
