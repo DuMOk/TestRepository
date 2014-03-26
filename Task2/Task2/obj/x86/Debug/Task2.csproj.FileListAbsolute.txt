@@ -1,0 +1,4 @@
+C:\Programs\Csharp\Task2\Task2\bin\Debug\Task2.exe
+C:\Programs\Csharp\Task2\Task2\bin\Debug\Task2.pdb
+C:\Programs\Csharp\Task2\Task2\obj\x86\Debug\Task2.exe
+C:\Programs\Csharp\Task2\Task2\obj\x86\Debug\Task2.pdb
