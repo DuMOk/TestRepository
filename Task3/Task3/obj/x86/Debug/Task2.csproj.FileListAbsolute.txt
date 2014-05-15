@@ -1,0 +1,46 @@
+C:\Programs\Csharp\Task2\Task2\bin\Debug\Task2.exe
+C:\Programs\Csharp\Task2\Task2\bin\Debug\Task2.pdb
+C:\Programs\Csharp\Task2\Task2\obj\x86\Debug\Task2.exe
+C:\Programs\Csharp\Task2\Task2\obj\x86\Debug\Task2.pdb
+D:\TestRepository-master\Task2\Task2\obj\x86\Debug\Task2.exe
+D:\TestRepository-master\Task2\Task2\obj\x86\Debug\Task2.pdb
+D:\TestRepository-master\Task2\Task2\bin\Debug\Task2.exe
+D:\TestRepository-master\Task2\Task2\bin\Debug\Task2.pdb
+D:\TestRepository-master\Task2\Task2\bin\Debug\nunit.framework.dll
+D:\TestRepository-master\Task2\Task2\bin\Debug\nunit.framework.xml
+D:\TestRepository-master\Task2\Task2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Task2\Task2\obj\x86\Debug\Task2.exe
+D:\Task2\Task2\obj\x86\Debug\Task2.pdb
+D:\Task2\Task2\bin\Debug\Task2.exe
+D:\Task2\Task2\bin\Debug\Task2.pdb
+D:\Task2\Task2\bin\Debug\nunit.framework.dll
+D:\Task2\Task2\bin\Debug\nunit.framework.xml
+D:\Task2\Task2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Task2\Task2\bin\Debug\Task2.exe.config
+C:\Programs\Csharp\Task2\Task2\bin\Debug\Task2.exe.config
+C:\Programs\Csharp\Task2\Task2\bin\Debug\PersonDB.sdf
+C:\Programs\Csharp\Task2\Task2\bin\Debug\nunit.framework.dll
+C:\Programs\Csharp\Task2\Task2\bin\Debug\nunit.framework.xml
+C:\Programs\Csharp\Task2\Task2\obj\x86\Debug\Task2.csprojResolveAssemblyReference.cache
+D:\Task2\Task2\bin\Debug\DB\PersonDB.sdf
+C:\Programs\Csharp\Task2 UI\Task2\bin\Debug\Task2.exe.config
+C:\Programs\Csharp\Task2 UI\Task2\obj\x86\Debug\Task2.exe
+C:\Programs\Csharp\Task2 UI\Task2\obj\x86\Debug\Task2.pdb
+C:\Programs\Csharp\Task2 UI\Task2\bin\Debug\DB\PersonDB.sdf
+C:\Programs\Csharp\Task2 UI\Task2\bin\Debug\Task2.exe
+C:\Programs\Csharp\Task2 UI\Task2\bin\Debug\Task2.pdb
+C:\Programs\Csharp\Task2 UI\Task2\bin\Debug\nunit.framework.dll
+C:\Programs\Csharp\Task2 UI\Task2\bin\Debug\nunit.framework.xml
+C:\Programs\Csharp\Task2 UI\Task2\obj\x86\Debug\Task2.csprojResolveAssemblyReference.cache
+D:\Task2 UI\Task2\bin\Debug\Task2.exe.config
+D:\Task2 UI\Task2\obj\x86\Debug\Task2.exe
+D:\Task2 UI\Task2\obj\x86\Debug\Task2.pdb
+D:\Task2 UI\Task2\bin\Debug\DB\PersonDB.sdf
+D:\Task2 UI\Task2\bin\Debug\Task2.exe
+D:\Task2 UI\Task2\bin\Debug\Task2.pdb
+D:\Task2 UI\Task2\bin\Debug\nunit.framework.dll
+D:\Task2 UI\Task2\bin\Debug\nunit.framework.xml
+D:\Task2 UI\Task2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Programs\Csharp\Task3\Task3\bin\Debug\Task2.exe.config
+C:\Programs\Csharp\Task3\Task3\obj\x86\Debug\Task2.exe
+C:\Programs\Csharp\Task3\Task3\obj\x86\Debug\Task2.pdb
