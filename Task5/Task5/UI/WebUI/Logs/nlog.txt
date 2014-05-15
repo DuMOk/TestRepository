@@ -1,0 +1,42 @@
+05/10/2014 17:10:20|Error|System.Data.SqlServerCe.SqlCeException (0x80004005): Не удается найти файл базы данных. Проверьте путь к базе данных. [ Data Source = C:\Programs\Csharp\Task4\Task4\UI\WebUI\App_Data\DBStudents1.sdf ]
+   в System.Data.SqlServerCe.SqlCeConnection.Open(Boolean silent)
+   в System.Data.SqlServerCe.SqlCeConnection.Open()
+   в Accessors.ADONetAccessors`1.OpenConnection(String connString) в c:\Programs\Csharp\Task4\Task4\Accessors\AccessorsType\ADONetAccessors.cs:строка 23
+05/10/2014 18:59:14|Error|System.Data.SqlServerCe.SqlCeException (0x80004005): Не удается найти файл базы данных. Проверьте путь к базе данных. [ Data Source = C:\Programs\Csharp\Task4\Task4\UI\WebUI\App_Data\DBStudents1.sdf ]
+   в System.Data.SqlServerCe.SqlCeConnection.Open(Boolean silent)
+   в System.Data.SqlServerCe.SqlCeConnection.Open()
+   в Accessors.ADONetAccessors`1.OpenConnection(String connString) в c:\Programs\Csharp\Task4\Task4\Accessors\AccessorsType\ADONetAccessors.cs:строка 23
+05/10/2014 19:00:54|Error|System.Data.SqlServerCe.SqlCeException (0x80004005): Не удается найти файл базы данных. Проверьте путь к базе данных. [ Data Source = C:\Programs\Csharp\Task4\Task4\UI\WebUI\App_Data\DBStudents1.sdf ]
+   в System.Data.SqlServerCe.SqlCeConnection.Open(Boolean silent)
+   в System.Data.SqlServerCe.SqlCeConnection.Open()
+   в Accessors.ADONetAccessors`1.OpenConnection(String connString) в c:\Programs\Csharp\Task4\Task4\Accessors\AccessorsType\ADONetAccessors.cs:строка 23
+05/10/2014 19:09:24|Error|System.Data.SqlServerCe.SqlCeException (0x80004005): Не удается найти файл базы данных. Проверьте путь к базе данных. [ Data Source = C:\Programs\Csharp\Task4\Task4\UI\WebUI\App_Data\DBStudents1.sdf ]
+   в System.Data.SqlServerCe.SqlCeConnection.Open(Boolean silent)
+   в System.Data.SqlServerCe.SqlCeConnection.Open()
+   в Accessors.ADONetAccessors`1.OpenConnection(String connString) в c:\Programs\Csharp\Task4\Task4\Accessors\AccessorsType\ADONetAccessors.cs:строка 23
+05/10/2014 19:09:28|Error|System.Data.SqlServerCe.SqlCeException (0x80004005): Не удается найти файл базы данных. Проверьте путь к базе данных. [ Data Source = C:\Programs\Csharp\Task4\Task4\UI\WebUI\App_Data\DBStudents1.sdf ]
+   в System.Data.SqlServerCe.SqlCeConnection.Open(Boolean silent)
+   в System.Data.SqlServerCe.SqlCeConnection.Open()
+   в Accessors.MyORM`1.OpenConnection(String connString) в c:\Programs\Csharp\Task4\Task4\Accessors\AccessorsType\MyORM.cs:строка 24
+05/10/2014 19:09:32|Error|System.Data.SqlServerCe.SqlCeException (0x80004005): Не удается найти файл базы данных. Проверьте путь к базе данных. [ Data Source = C:\Programs\Csharp\Task4\Task4\UI\WebUI\App_Data\DBStudents1.sdf ]
+   в System.Data.SqlServerCe.SqlCeConnection.Open(Boolean silent)
+   в System.Data.SqlServerCe.SqlCeConnection.Open()
+   в Accessors.MyORM`1.OpenConnection(String connString) в c:\Programs\Csharp\Task4\Task4\Accessors\AccessorsType\MyORM.cs:строка 24
+05/10/2014 19:09:44|Error|System.Data.SqlServerCe.SqlCeException (0x80004005): Не удается найти файл базы данных. Проверьте путь к базе данных. [ Data Source = C:\Programs\Csharp\Task4\Task4\UI\WebUI\App_Data\DBStudents1.sdf ]
+   в System.Data.SqlServerCe.SqlCeConnection.Open(Boolean silent)
+   в System.Data.SqlServerCe.SqlCeConnection.Open()
+   в Accessors.MyORM`1.OpenConnection(String connString) в c:\Programs\Csharp\Task4\Task4\Accessors\AccessorsType\MyORM.cs:строка 24
+05/10/2014 19:09:47|Error|System.Data.SqlServerCe.SqlCeException (0x80004005): Не удается найти файл базы данных. Проверьте путь к базе данных. [ Data Source = C:\Programs\Csharp\Task4\Task4\UI\WebUI\App_Data\DBStudents1.sdf ]
+   в System.Data.SqlServerCe.SqlCeConnection.Open(Boolean silent)
+   в System.Data.SqlServerCe.SqlCeConnection.Open()
+   в Accessors.MyORM`1.OpenConnection(String connString) в c:\Programs\Csharp\Task4\Task4\Accessors\AccessorsType\MyORM.cs:строка 24
+05/10/2014 19:09:58|Error|System.Data.SqlServerCe.SqlCeException (0x80004005): Не удается найти файл базы данных. Проверьте путь к базе данных. [ Data Source = C:\Programs\Csharp\Task4\Task4\UI\WebUI\App_Data\DBStudents1.sdf ]
+   в System.Data.SqlServerCe.SqlCeConnection.Open(Boolean silent)
+   в System.Data.SqlServerCe.SqlCeConnection.Open()
+   в Accessors.MyORM`1.OpenConnection(String connString) в c:\Programs\Csharp\Task4\Task4\Accessors\AccessorsType\MyORM.cs:строка 24
+05/10/2014 19:10:28|Error|System.Data.SqlServerCe.SqlCeException (0x80004005): Невозможно вставить внешний ключ, так как не существует соответствующий первичный ключ. [ Foreign key constraint name = StudAndGroup ]
+   в System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   в System.Data.SqlServerCe.SqlCeCommand.ExecuteCommandText(IntPtr& pCursor, Boolean& isBaseTableCursor)
+   в System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   в System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   в Accessors.MyORM`1.Insert(T name) в c:\Programs\Csharp\Task4\Task4\Accessors\AccessorsType\MyORM.cs:строка 180
