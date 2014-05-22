@@ -1,0 +1,4 @@
+2014-05-22 00:24:23,404 [11] ERROR Task6.Program [(null)] - System.Data.SqlServerCe.SqlCeException (0x80004005): Не удается найти файл базы данных. Проверьте путь к базе данных. [ Data Source = ..\..\DBStudents1.sdf ]
+   в System.Data.SqlServerCe.SqlCeConnection.Open(Boolean silent)
+   в System.Data.SqlServerCe.SqlCeConnection.Open()
+   в Task6.MyORM`1.OpenConnection() в c:\Programs\Csharp\Task6\Task6\Accessor\MyORM.cs:строка 24

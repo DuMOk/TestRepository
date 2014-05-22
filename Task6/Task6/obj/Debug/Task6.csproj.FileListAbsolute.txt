@@ -1,0 +1,17 @@
+C:\Programs\Csharp\Task6\Task6\bin\Debug\Task6.exe.config
+C:\Programs\Csharp\Task6\Task6\bin\Debug\Task6.exe
+C:\Programs\Csharp\Task6\Task6\bin\Debug\Task6.pdb
+C:\Programs\Csharp\Task6\Task6\bin\Debug\NLog.dll
+C:\Programs\Csharp\Task6\Task6\bin\Debug\NLog.xml
+C:\Programs\Csharp\Task6\Task6\obj\Debug\Task6.csprojResolveAssemblyReference.cache
+C:\Programs\Csharp\Task6\Task6\obj\Debug\Task6.exe
+C:\Programs\Csharp\Task6\Task6\obj\Debug\Task6.pdb
+C:\Programs\Csharp\Task6\Task6\bin\Debug\Castle.Core.dll
+C:\Programs\Csharp\Task6\Task6\bin\Debug\Castle.Windsor.dll
+C:\Programs\Csharp\Task6\Task6\bin\Debug\Castle.Core.xml
+C:\Programs\Csharp\Task6\Task6\bin\Debug\Castle.Windsor.xml
+C:\Programs\Csharp\Task6\Task6\bin\Debug\NLog.config
+C:\Programs\Csharp\Task6\Task6\bin\Debug\Ninject.dll
+C:\Programs\Csharp\Task6\Task6\bin\Debug\Ninject.xml
+C:\Programs\Csharp\Task6\Task6\bin\Debug\log4net.dll
+C:\Programs\Csharp\Task6\Task6\bin\Debug\log4net.xml

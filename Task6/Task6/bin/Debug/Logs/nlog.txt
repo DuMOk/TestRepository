@@ -1,0 +1,25 @@
+05/13/2014 10:43:17|Error|System.Data.SqlServerCe.SqlCeException (0x80004005): Не удается найти файл базы данных. Проверьте путь к базе данных. [ Data Source = ..\..\DBStudents1.sdf ]
+   в System.Data.SqlServerCe.SqlCeConnection.Open(Boolean silent)
+   в System.Data.SqlServerCe.SqlCeConnection.Open()
+   в Task6.ADONetAccessors`1.OpenConnection(String connString) в c:\Programs\Csharp\Task6\Task6\Accessor\ADONetAccessors.cs:строка 23
+05/17/2014 18:34:10|Error|System.IO.FileNotFoundException: Файл 'C:\Programs\Csharp\Task6\Task6\bin\Debug\Persons1.xml' не найден.
+Имя файла: 'C:\Programs\Csharp\Task6\Task6\bin\Debug\Persons1.xml'
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   в System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   в System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   в System.Xml.XmlTextReaderImpl.OpenUrlDelegate(Object xmlResolver)
+   в System.Threading.CompressedStack.runTryCode(Object userData)
+   в System.Runtime.CompilerServices.RuntimeHelpers.ExecuteCodeWithGuaranteedCleanup(TryCode code, CleanupCode backoutCode, Object userData)
+   в System.Threading.CompressedStack.Run(CompressedStack compressedStack, ContextCallback callback, Object state)
+   в System.Xml.XmlTextReaderImpl.OpenUrl()
+   в System.Xml.XmlTextReaderImpl.Read()
+   в System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   в System.Xml.XmlDocument.Load(XmlReader reader)
+   в System.Xml.XmlDocument.Load(String filename)
+   в Task6.DataFileAccessors`1.GetAll() в c:\Programs\Csharp\Task6\Task6\Accessor\DataFileAccessors.cs:строка 24
+05/21/2014 21:35:14|Error|System.Data.SqlServerCe.SqlCeException (0x80004005): Не удается найти файл базы данных. Проверьте путь к базе данных. [ Data Source = ..\..\DBStudents1.sdf ]
+   в System.Data.SqlServerCe.SqlCeConnection.Open(Boolean silent)
+   в System.Data.SqlServerCe.SqlCeConnection.Open()
+   в Task6.ADONetAccessors`1.OpenConnection() в c:\Programs\Csharp\Task6\Task6\Accessor\ADONetAccessors.cs:строка 25
